@@ -656,7 +656,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   height: 100%;
   overflow: hidden;
   z-index: 11000 !important;
-  background-color: rgba(0,0,0,.5);
+  background-color: rgba(202, 252, 221,.5);
   line-height: 1.2em;
   opacity: 0;
   visibility: hidden;
@@ -757,8 +757,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   left: 10px;
   right: 10px;
   padding: 10px;
-  background-color: rgb(58,68,84);
-  background-color: rgba(58,68,84,0.8);
+  background-color: rgb(202, 252, 221);
+  background-color: rgba(202, 252, 221,0.8);
   overflow-y: auto;
   opacity: 0;
   -webkit-transition: opacity 0.3s ease-in-out;
